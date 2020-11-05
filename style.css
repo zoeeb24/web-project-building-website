@@ -1,0 +1,167 @@
+body {margin:0}
+
+.firstheader {background-color:rgb(157, 230, 230);
+margin: 0;
+height: 10%;}
+
+.plaintext {padding:.5rem;
+margin: .5rem;
+font-size: 1.5rem;
+padding: 1rem;}
+
+.links-container {display:flex;
+list-style: none;
+justify-content: space-between;
+width: 60%;
+padding: 1.25rem;
+margin: .5rem;
+}
+
+.links-container a {text-decoration: none;
+color: rgb(60, 122, 255); 
+font-size: 1.15rem;}
+
+
+
+.secondheader {display:flex;
+justify-content: space-between;
+}
+
+.logo span {color: black;
+font-size: 2.5rem;
+padding: 1rem;
+}
+
+.login {justify-content: flex-end;
+width: 20%;
+padding: 1rem 1rem;}
+
+.login a {color: black;
+padding: .5rem;
+text-decoration: none;}
+
+
+
+
+.middlecontainer {background-image: linear-gradient(rgb(186, 186, 236),rgb(31, 16, 240));}
+
+/*replaced image with gradient */
+
+.navbox {background-color: white;
+width: 40%;
+height: 15%;
+padding: 2rem;
+margin: 3rem; 
+border-radius: 10px;} 
+
+.empfam {background-color: rgb(114, 209, 193);
+border-radius:15px;
+padding: 2rem;
+margin: 1rem;
+width: 50%;}
+
+.empadmin {background-color: rgb(114, 209, 193);
+border-radius:15px;
+padding: 2rem;
+margin: 1rem;
+width: 50%;}
+
+.brokerssp {background-color: rgb(114, 209, 193);
+border-radius:15px;
+padding: 2rem;
+margin: 1rem;
+width: 50%;}
+
+.about {background-color: rgb(114, 209, 193);
+border-radius:15px;
+padding: 2rem;
+margin: 1rem;
+width: 50%;}
+
+.secondlogin a {color: rgb(10, 59, 150);}
+
+
+
+
+.navboxlong {display: flex;}
+
+.solutionsfor {margin: .5rem;
+padding: 1rem;
+}
+.solutionsfor h1 {margin:2rem;}
+.solutionsfor li {list-style: none;}
+.solutionsfor a {text-decoration: none;
+color:black;}
+
+
+.howwecanhelp {margin: .5rem;
+padding: 1rem;
+}
+.howwecanhelp h1 {margin:2rem;}
+.howwecanhelp li {list-style: none;}
+.howwecanhelp a {text-decoration: none;
+color:black;}
+
+
+.aboutunum {margin: .5rem;
+padding: 1rem;
+}
+.aboutunum h1 {margin:2rem;}
+.aboutunum li {list-style: none;}
+.aboutunum a {text-decoration: none;
+color:black;}
+
+.joinourteam {margin: .5rem;
+padding: 1rem;
+}
+.joinourteam h1 {margin:2rem;}
+.joinourteam li {list-style: none;}
+.joinourteam a {text-decoration: none;
+color:black;}
+
+
+
+
+.bottombox {background-color: rgb(235, 235, 245)}
+
+.bottomrightside span {color: black;
+font-size: 2.5rem;
+padding: 1rem;
+}
+
+.bottomrightside {margin: 1rem; color:rgb(80, 150, 255);
+justify-content: space-between;}
+
+
+
+.bottomlinks {display: flex;
+width: 70%;
+justify-content: space-around;
+margin: .25rem;
+}
+
+.bottomlinks a {text-decoration: none;color: rgb(49, 102, 182);}
+
+
+.socialmedia ul {display: flex;
+justify-content: space-between;
+width: 15%;
+list-style: none;}
+
+.socialmedia a {color:black;
+font-size: 1.25rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
